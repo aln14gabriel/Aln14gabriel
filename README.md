@@ -13,8 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://img.icons8.com/?size=512&id=90519&format=png" height="30" alt="springboot logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" height="30" alt="html logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" height="30" alt="css logo"  />
 </div>
 
 ###
