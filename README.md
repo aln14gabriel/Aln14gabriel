@@ -1,4 +1,12 @@
-<h2 align="left">Olá! 👋<br><br>Me chamo Allan Gabriel, Sempre Tive uma paixão em Tecnologia desde criança, algo que sempre esteve ao meu redor! vou me aprofundando cada vez mais na programação, Buscando oportunidades para praticar meus conhecimentos para resolver problemas. <br><br>Atualmente Cursando Analise e Desenvolvimento de Sistemas no 3 Período. Diariamente usando tecnologias, Como Back-End: Spring boot, Java, SQL, MySQL | Front-End: HTML, CSS  🚀</h2>
+<h2 align="left">Olá! Me chamo Allan Gabriel e sou apaixonado por tecnologia — ela sempre esteve presente no meu dia a dia e despertou minha curiosidade desde cedo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º período) e venho me aprofundando cada vez mais em programação, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
+
+💻 Tecnologias que utilizo diariamente:
+
+Back-End: Java, Spring Boot, SQL, MySQL
+
+Front-End: HTML, CSS
+
+Estou sempre em busca de evolução, novos desafios e projetos que me permitam crescer como desenvolvedor. Vamos codar?  🚀</h2>
 
 ###
 
