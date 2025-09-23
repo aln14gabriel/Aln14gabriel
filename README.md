@@ -22,9 +22,7 @@
 </div>
 
 ###
-  <a href="https://www.instagram.com/aln14gabriel/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img width="30" />
+
   <a href="https://www.linkedin.com/in/aln14gabriel" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="35" alt="likedin logo"  />
      
