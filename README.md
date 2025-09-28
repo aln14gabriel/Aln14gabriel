@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Me chamo Allan Gabriel e sou apaixonado por tecnologia — ela sempre esteve presente no meu dia a dia e despertou minha curiosidade desde cedo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º período) e venho me aprofundando cada vez mais em programação, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
+<h2 align="left">Me chamo Allan Gabriel e sou apaixonado por tecnologia — ela sempre esteve presente no meu dia a dia e despertou minha curiosidade desde cedo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas (3º período) e venho me aprofundando cada vez mais em programação, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
 
 💻 Tecnologias que utilizo diariamente:
 
