@@ -1,6 +1,6 @@
 # 👨‍💻 Allan Gabriel — Desenvolvedor Back-End em formação
 
-Me chamo **Allan Gabriel**, sou apaixonado por tecnologia — ela sempre esteve presente no meu dia a dia e despertou minha curiosidade desde cedo. Atualmente curso **Análise e Desenvolvimento de Sistemas (3º período)** e venho me aprofundando cada vez mais em **programação Back-End**, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
+Me chamo **Allan Gabriel** e sou apaixonado por tecnologia — ela sempre esteve presente no meu dia a dia e despertou minha curiosidade desde cedo. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (3º período)** e venho me aprofundando cada vez mais em **programação Back-End**, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
 
 ---
 
@@ -25,8 +25,8 @@ Me chamo **Allan Gabriel**, sou apaixonado por tecnologia — ela sempre esteve 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aln14gabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aln14gabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aln14gabriel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aln14gabriel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -49,7 +49,9 @@ Me chamo **Allan Gabriel**, sou apaixonado por tecnologia — ela sempre esteve 
 
 ## 🌐 Redes sociais
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/aln14gabriel)
+<a href="https://www.linkedin.com/in/aln14gabriel" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="25" alt="LinkedIn logo" />
+</a>
 
 ---
 
