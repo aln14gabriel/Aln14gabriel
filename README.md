@@ -16,9 +16,8 @@ Me chamo **Allan Gabriel** e sou apaixonado por tecnologia — ela sempre esteve
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [API de Tarefas](https://github.com/aln14gabriel/api-tarefas) | Gerenciamento de tarefas com CRUD completo | Java, Spring Boot, MySQL |
-| [Sistema de Cadastro](https://github.com/aln14gabriel/sistema-cadastro) | Cadastro de usuários com persistência em banco | Java, JDBC, MySQL |
-| [Calculadora de IMC](https://github.com/aln14gabriel/calculadora-imc) | Projeto básico para praticar lógica e estruturas condicionais | Java |
+| [Sistema de Academia](https://github.com/aln14gabriel/grupos_Avantex_pi.2) | Mondelagem de Um Banco de Dados Para uma Academia | Java, MySQL |
+
 
 ---
 
