@@ -16,7 +16,7 @@ Me chamo **Allan Gabriel** e sou apaixonado por tecnologia — ela sempre esteve
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Sistema de Academia](https://github.com/aln14gabriel/grupos_Avantex_pi.2) | Mondelagem de Um Banco de Dados Para uma Academia | Java, MySQL |
+| [Sistema de Academia](https://github.com/aln14gabriel/grupos_Avantex_pi.2) | Modelagem de Um Banco de Dados Para uma Academia | Java, MySQL |
 
 
 ---
