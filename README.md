@@ -6,9 +6,9 @@ Me chamo **Allan Gabriel** e sou apaixonado por tecnologia — ela sempre esteve
 
 ## 💻 Tecnologias que utilizo diariamente
 
-- **Back-End:** Java, Spring Boot, SQL, MySQL  
+- **Back-End:** Java, Spring Boot, SQL
 - **Front-End:** HTML, CSS  
-- **Ferramentas:** Git, GitHub, IntelliJ IDEA, Postman
+- **Ferramentas:** Git, GitHub, Visual Studio Code,Eclipse, MySQL
 
 ---
 
