@@ -1,6 +1,6 @@
 # 👨‍💻 Allan Gabriel — Desenvolvedor Back-End em formação
 
-Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (3º período)**  **programação Back-End**, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
+Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (3º período)**  **Desenvolvedor Back-End**, buscando constantemente oportunidades para aplicar meus conhecimentos na resolução de problemas reais.
 
 ---
 
